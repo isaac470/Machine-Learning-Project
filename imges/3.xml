@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Plate Images</folder>
+	<filename>3.jpg</filename>
+	<path>C:\Users\HP\Desktop\OCR\Plate Images\3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3791</width>
+		<height>3196</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>number_plates</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1055</xmin>
+			<ymin>1578</ymin>
+			<xmax>1579</xmax>
+			<ymax>1964</ymax>
+		</bndbox>
+	</object>
+</annotation>
